@@ -8,7 +8,9 @@ Let's use Pandoc.
 1. Email
 2. Markdown
 3. Editor
-4. Cloud
+4. Pandoc
+5. Git, github, gitlab 
+6. Cloud
 5. Word processing 
 6. Presentation
 7. Excel
